@@ -1,3 +1,4 @@
+//nota en player
 class Player//Clase Player para inicalizar a sub zero como un objeto, haciendo el código modular
 {
   /*
